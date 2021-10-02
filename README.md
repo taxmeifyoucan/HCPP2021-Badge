@@ -8,7 +8,7 @@ Card payments in traditional finance have become standard over recent years. The
 
 The old design uses traditional paper wallets. Either an NFC or QR code with a private key is given to a customer who can use it with ATMs and PoS terminals. For receiving/checking balance device derives pub key from priv key and for payments it takes private key and signs a transaction. Obviously, this comes with strong security and privacy disadvantages. 
 
-Trust is involved in private key generation and devices which read your private key. Constant address reuse also makes this very painful from privacy perspective. These payments were done only on-chain, recently mainly with Litcoin because of fees and compatibility with Bitcoin formants. 
+Trust is involved in private key generation and devices which read your private key. Constant address reuse also makes this very painful from privacy perspective. These payments were done only on-chain, recently mainly with Litecoin because of fees and compatibility with Bitcoin formats. 
 
 ## Lightning badge
 
