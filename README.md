@@ -1,6 +1,7 @@
 # HCPP2021 Badge
 
 For Hackers Congress Paralelní Polis 2021, we created a payment system which enables Bitcoin Lightning payments using an NFC badge. 
+Video example: https://twitter.com/gladstein/status/1444398232692576259
 
 ## Previous design, motivation
 
